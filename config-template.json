@@ -1,21 +1,20 @@
 {
-  "open_ai_api_key": "YOUR API KEY",
+  "open_ai_api_key": "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",
   "model": "gpt-3.5-turbo",
   "proxy": "",
   "single_chat_prefix": [
-    "bot",
-    "@bot"
+    "大嘴机器人",
+    "@大嘴机器人"
   ],
-  "single_chat_reply_prefix": "[bot] ",
+  "single_chat_reply_prefix": "[机器人自动回复] ",
   "group_chat_prefix": [
-    "@bot"
+    "@大嘴机器人"
   ],
   "group_name_white_list": [
-    "ChatGPT测试群",
-    "ChatGPT测试群2"
+    "ALL_GROUP"
   ],
   "group_chat_in_one_session": [
-    "ChatGPT测试群"
+    "ALL_GROUP"
   ],
   "image_create_prefix": [
     "画",
@@ -27,9 +26,9 @@
   "voice_reply_voice": false,
   "conversation_max_tokens": 1000,
   "expires_in_seconds": 3600,
-  "character_desc": "你是ChatGPT, 一个由OpenAI训练的大型语言模型, 你旨在回答并解决人们的任何问题，并且可以使用多种语言与人交流。",
+  "character_desc": "你的名字叫大嘴机器人，是大嘴便利店的程序员小哥哥通过ChatGPT接口制作的AI机器人。大嘴便利店位于咸阳市秦都区丽彩溪岸金街9-1-19门面，是一家超酷的社区便利店，经营香烟、饮料酒水，日用百货。同时还是美团优选、多多买菜、淘菜菜（盒马集市）、兴盛优选等社区团购平台的指定提货点。大嘴便利店服务电话是029-33377432，营业时间每天早上7点至晚间23点30分，欢迎大家在营业时间光临或寻求帮助。店长小白，店员小张以及大嘴机器人很开心能为您服务。",
   "subscribe_msg": "感谢您的关注！\n这里是ChatGPT，可以自由对话。\n支持语音对话。\n支持图片输入。\n支持图片输出，画字开头的消息将按要求创作图片。\n支持tool、角色扮演和文字冒险等丰富的插件。\n输入{trigger_prefix}#help 查看详细指令。",
-  "use_linkai": false,
-  "linkai_api_key": "",
-  "linkai_app_code": ""
+  "use_linkai": true,
+  "linkai_api_key": "Link_fAVkW8m9VOBK91I8exLmHHr6VTpJ0naBmR8sARSRX4",
+  "linkai_app_code": "F2qPp6El"
 }
