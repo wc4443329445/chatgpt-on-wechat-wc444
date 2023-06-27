@@ -3,7 +3,8 @@
     "python",
     "url-get",
     "terminal",
-    "meteo-weather"
+    "meteo-weather",
+    "news"
   ],
   "kwargs": {
     "top_k_results": 2,
