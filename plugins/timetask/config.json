@@ -15,7 +15,7 @@
     },
     {
       "key_word": "搜索",
-      "func_command_prefix": "$tool bing "
+      "func_command_prefix": "$tool google "
     },
     {
       "key_word": "GPT",
