@@ -11,7 +11,7 @@
     "top_k_results": 2,
     "no_default": false,
     "model_name": "gpt-3.5-turbo",
-    "news_api_key": "0d7b858b25884261b04767353f4d5948",
+    "morning_news_api_key": "A5X2RbbgtuNWu6eu",
     "bing_subscription_key": "07f2dc18621741c282dfdcf4030b8476"
   }
 }
