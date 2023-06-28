@@ -4,7 +4,7 @@
     "url-get",
     "terminal",
     "meteo-weather",
-    "news",
+    "morning-news",
     "bing-search"
   ],
   "kwargs": {
