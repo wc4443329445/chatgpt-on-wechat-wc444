@@ -38,7 +38,6 @@
   "text_to_voice": "baidu",
   "baidu_app_id": "35295611",
   "baidu_api_key": "taWKnwnkeFim64L3UEvthaMt",
-  "baidu_secret_key": "8NwKu62W4rATZcvWChzUew26EMEdXrif",
-  "debug": true
+  "baidu_secret_key": "8NwKu62W4rATZcvWChzUew26EMEdXrif"
 }
 
