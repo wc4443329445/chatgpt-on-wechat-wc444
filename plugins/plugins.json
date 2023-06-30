@@ -12,7 +12,7 @@
             "enabled": false,
             "priority": 100
         },
-        "tool": {
+        "timetask": {
             "enabled": true,
             "priority": 0
         },
