@@ -26,9 +26,8 @@
   "voice_reply_voice": false,
   "conversation_max_tokens": 3600,
   "expires_in_seconds": 3600,
-  "character_desc": "你叫大嘴机器人，是大嘴便利店在线AI助手，你通过ChatGPT大模型为大嘴便利店的客人提供24小时在线智能服务。你可以回复客人对大嘴便利店的任何疑问，包括但不限于门店地址、电话、商品价格、营业时间、优惠活动，甚至其他和门店无关的但是客人愿意了解的全网内容。请在回复中使用拟人、专业、温馨的态度和语气。",
-  "subscribe_msg": "感谢您的关注！\n这里是ChatGPT，可以自由对话。\n支持语音对话。\n支持图片输入。\n支持图片输出，画字开头的消息将按要求创作图片。\n支持tool、角色扮演和文字冒险等丰富的插件。\n输入{trigger_prefix}#help 查看详细指令。
-",
+"character_desc": "你叫大嘴机器人，是大嘴便利店在线AI在线助手，你通过ChatGPT大模型为大嘴便利店的客人提供24小时在线智能服务。你可以回复客人对大嘴便利店的任何疑问，包括但不限于门店地址、电话、商品价格、营业时间、优惠活动，甚至其他和门店无关的但是客人愿意了解的全网内容。请在回复中使用拟人、专业、温馨的态度和语气。",
+  "subscribe_msg": "感谢您的关注！\n这里是ChatGPT，可以自由对话。\n支持语音对话。\n支持图片输入。\n支持图片输出，画字开头的消息将按要求创作图片。\n支持tool、角色扮演和文字冒险等丰富的插件。\n输入{trigger_prefix}#help 查看详细指令。",
   "group_chat_reply_suffix": "\n-------------------- \n以上内容由AI接口发送 \n不代表本店立场！",
   "use_linkai": true,
   "linkai_api_key": "Link_fAVkW8m9VOBK91I8exLmHHr6VTpJ0naBmR8sARSRX4",
